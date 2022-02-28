@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+is the time for all good men...
 Use the left arrow to go back!
